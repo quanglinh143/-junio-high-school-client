@@ -1,0 +1,31 @@
+.swiper{
+    width: 70% !important;
+    min-height: 500px !important;
+}
+.swiper-slide{
+    /* width: 200px !important; */
+    /* min-height: 200px !important; */
+    min-height:280px;
+    box-sizing: border-box;
+}
+.swiper-button-prev,.swiper-button-next{
+    display: none !important;
+}
+.swiper-pagination-bullets{
+    display: none !important;
+}
+
+.lop{
+    position: relative;
+}
+.slidePos{
+    position: absolute;
+    bottom: -50px;
+}
+.slidePos:hover{
+    bottom:0
+}
+.sildeImg{
+    height:280px;
+    object-fit:cover;
+}

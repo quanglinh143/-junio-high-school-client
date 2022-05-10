@@ -1,3 +1,23 @@
 .a{
     background-color: rgba(0,0,0,.4);
 }
+.c{
+    color:'red'
+}
+
+.linh14{
+    width: 100%;
+    position: absolute;
+    top:0px;
+    background-color:yellow;
+    
+}
+.linh143{
+    width: 100%;
+    position: absolute;
+    top:80px;
+    background-color:yellow; 
+    transition: .6s;
+    transition-timing-function: ease;
+    height:200px;
+}

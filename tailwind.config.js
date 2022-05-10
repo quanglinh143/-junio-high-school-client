@@ -24,9 +24,12 @@ module.exports = {
         'color-2': '#eaf2ef',
         'color-3': '#fdf3db',
         'color-4': '#f6c155',
+        'color-5':' #a1aed4',
+        'color-6':'#273b71',
         'color-fff':'#ffffff',
         'color-red':'#f73030',
         'theme-header':'#252f5a',
+        'color-banner':'#070b28',
         primary: 'var(--primary)',
         'primary-2': 'var(--primary-2)',
         secondary: 'var(--secondary)',
@@ -94,5 +97,9 @@ module.exports = {
       },
       
     },
+    backgroundImage: {
+      'hero-pattern': "url('src/static/img/footerbg.jpg')",
+     
+    }
   }
 }
